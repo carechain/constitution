@@ -1,7 +1,7 @@
 # Manifesto
 Intro
 
-##Key tenets
+## Key tenets
 
 - Owned by no-one entity
 - Open governance model
